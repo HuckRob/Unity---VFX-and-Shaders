@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 261.9007, g: 324.45554, b: 429.43463, a: 1}
+  m_IndirectSpecularColor: {r: 262.3369, g: 325.0498, b: 430.21924, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2033,15 +2033,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2473392915850660426, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.56
+      value: 1.8
       objectReference: {fileID: 0}
     - target: {fileID: 2473392915850660426, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -10.54
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 2473392915850660426, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.27
+      value: 17
       objectReference: {fileID: 0}
     - target: {fileID: 2473392915850660426, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2070,6 +2070,18 @@ PrefabInstance:
     - target: {fileID: 2473392915850660426, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2473392915850660427, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
+      propertyPath: ShapeModule.radius.value
+      value: 200
+      objectReference: {fileID: 0}
+    - target: {fileID: 2473392915850660427, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
+      propertyPath: ShapeModule.radiusThickness
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2473392915850660427, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 2473392915850660429, guid: 59002eb99ea4ea44ba9b62b54d61dc92, type: 3}
       propertyPath: m_Name
