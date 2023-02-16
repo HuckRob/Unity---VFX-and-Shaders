@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 16
+=======
+  controlID: 111
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -70,7 +74,11 @@ MonoBehaviour:
     height: 947
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+<<<<<<< Updated upstream
   m_ActualView: {fileID: 14}
+=======
+  m_ActualView: {fileID: 13}
+>>>>>>> Stashed changes
   m_Panes:
   - {fileID: 14}
   m_Selected: 0
@@ -223,7 +231,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 17
+=======
+  controlID: 19
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +260,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 18
+=======
+  controlID: 20
+>>>>>>> Stashed changes
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -346,22 +362,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< Updated upstream
     - Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures
+=======
+    - Assets/Prefabs
+>>>>>>> Stashed changes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< Updated upstream
   - Assets/BOXOPHOBIC/Skybox Cubemap Extended/Demo/Textures
+=======
+  - Assets/Prefabs
+>>>>>>> Stashed changes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Rob\Documents\_GitHub\Unity---VFX-and-Shaders
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: a6fb0000
     m_LastClickedID: 64422
     m_ExpandedIDs: 00000000065b00001c5b0000d6fa000012fb000086fb000092fb000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: da5d0000
+    m_LastClickedID: 24026
+    m_ExpandedIDs: 00000000f25b000000ca9a3bffffff7f
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -389,7 +419,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000065b0000
+=======
+    m_ExpandedIDs: 00000000f25b0000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -517,9 +551,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: a6fb0000
       m_LastClickedID: 0
       m_ExpandedIDs: 36fbffff
+=======
+      m_SelectedIDs: ecbbffff
+      m_LastClickedID: -17428
+      m_ExpandedIDs: 36fbffff7a5b0000
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -801,9 +841,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 3.2017903, y: 0.15669584, z: -1.4899057}
     speed: 2
     m_Value: {x: 3.2017903, y: 0.15669584, z: -1.4899057}
+=======
+    m_Target: {x: 33.612076, y: 56.819946, z: -18.26573}
+    speed: 2
+    m_Value: {x: 33.612076, y: 56.819946, z: -18.26573}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -850,6 +896,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< Updated upstream
     m_Target: {x: 0.15927403, y: 0.821805, z: -0.27764064, w: 0.47140476}
     speed: 2
     m_Value: {x: 0.15968724, y: 0.8210812, z: -0.27739608, w: 0.47262788}
@@ -857,6 +904,15 @@ MonoBehaviour:
     m_Target: 3.8612769
     speed: 2
     m_Value: 3.8612769
+=======
+    m_Target: {x: 0.23899716, y: -0.598016, z: 0.19311224, w: 0.7402789}
+    speed: 2
+    m_Value: {x: 0.23730311, y: -0.6005099, z: 0.19292311, w: 0.7388206}
+  m_Size:
+    m_Target: 18.646975
+    speed: 2
+    m_Value: 18.646975
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 0
     speed: 2
